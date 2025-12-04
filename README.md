@@ -22,8 +22,11 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+I'm Xavier from France.<br><br>
+- 📚 I'm currently learning cloud technologies, networking, and scripting<br>
+- ⚡ In my free time I enjoy exploring tech projects, playing video games, and learning new skills
+</p>
 
 ###
 
