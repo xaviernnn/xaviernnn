@@ -69,6 +69,20 @@
 
 <h3 align="left">🌐 Network</h3>
 
+<h3 align="left">🌐 Network</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Cisco-1BA0E2?logo=cisco&logoColor=white&style=for-the-badge" height="40" alt="cisco logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Stormshield-005CA9?logo=stormshield&logoColor=white&style=for-the-badge" height="40" alt="stormshield logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/pfSense-00ADEF?logo=pfsense&logoColor=white&style=for-the-badge" height="40" alt="pfsense logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Wireshark-0078D7?logo=wireshark&logoColor=white&style=for-the-badge" height="40" alt="wireshark logo"  />
+</div>
+
 ###
 
 <div align="left">
